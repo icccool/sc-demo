@@ -7,10 +7,11 @@
         <artifactId>sc-demo</artifactId>
         <version>0.0.1-SNAPSHOT</version>
 	</parent>
+
 	<groupId>com.scdemo</groupId>
-	<artifactId>sc-service-a</artifactId>
+	<artifactId>sc-service-eureka</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>sc-service-a</name>
+	<name>sc-service-eureka</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>

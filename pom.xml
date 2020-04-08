@@ -16,6 +16,12 @@
     <name>sc-demo</name>
     <description>spring cloud demo</description>
 
+    <modules>
+        <module>sc-service-eureka</module>
+        <module>sc-service-a</module>
+        <module>sc-service-b</module>
+    </modules>
+
     <properties>
         <java.version>1.8</java.version>
     </properties>
